@@ -1,0 +1,14 @@
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\bin\Debug\yazılımyapımıodev.exe.config
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\bin\Debug\yazılımyapımıodev.exe
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\bin\Debug\yazılımyapımıodev.pdb
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.altıyaaltı.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.besebes.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.dokuzadokuz.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.Form1.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.sekizesekiz.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.yediyeyedi.resources
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.csproj.GenerateResource.Cache
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.exe
+C:\Users\irem ünver\Desktop\yazılımyapımıodev\yazılımyapımıodev\obj\Debug\yazılımyapımıodev.pdb
